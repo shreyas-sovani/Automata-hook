@@ -11,12 +11,12 @@
 ---
 
 ## 📹 Presentation Pitch & Demo Video
-> **[Insert Link to ~3 Minute Video Demo Here]**
+> **[Link to Demo Video](https://youtu.be/zsV4ZxyDKI0)**
 *The video demonstrates the complete end-to-end "Happy Path": a cross-chain `WhaleDump` trigger occurring on Sepolia, the decentralized pickup by ReactVM, and the exact state transition affecting the Unichain Sepolia LP fee via Uniswap v4's dynamic fees.*
 
 ---
 
-## 💡 The Problem You're Solving
+## 💡 The Problem We're Solving
 
 **Loss Versus Rebalancing (LVR) & Stale AMM Fees during Extrinsic Volatility.**
 Liquidity Providers (LPs) are routinely penalized during rapid cross-chain or macroeconomic events (e.g., a massive dump on another chain). Because traditional AMMs cannot react to the broader off-chain or cross-chain state *instantly*, arbitragers strip value from LPs before the centralized oracles or governance votes can adjust the pool's parameters.
